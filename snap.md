@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            background-image: url('back2.jpeg');
-            background-size: cover; /* чтобы изображение занимало всю площадь */
-            background-repeat: no-repeat; /* чтобы изображение не повторялось */
-        }
-    </style>
-</head>
-<body>
-
-
 ### Что такое snap и как с ними работает Git
 
 ---
